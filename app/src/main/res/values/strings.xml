@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TourGo</string>
+    <!--Title of city-->
+    <string name="city_title">City :-</string>
+    <!-- City name-->
+    <string name="city_name">Gwalior</string>
+    <!-- Category name for topsight [CHAR LIMIT=20] -->
+    <string name="category_topsight">Top Sights</string>
+
+    <!-- Category name for events [CHAR LIMIT=20] -->
+    <string name="category_event">Events</string>
+
+    <!-- Category name for thingstodo [CHAR LIMIT=20] -->
+    <string name="category_thingstodo">Things To Do</string>
+
+    <!-- Category name for resturant [CHAR LIMIT=20] -->
+    <string name="category_restaurant">Restaurants</string>
+
+
+
+
+</resources>

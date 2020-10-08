@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tourgo">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".RestaurantsIteams.Rajbhog"
+            android:parentActivityName=".RestaurantsIteams.Rajbhog"/>
+        <activity android:name=".RestaurantsIteams.TheMansingh"
+            android:parentActivityName=".RestaurantsIteams.TheMansingh"/>
+        <activity android:name=".RestaurantsIteams.MotiMahal"
+            android:parentActivityName=".RestaurantsIteams.MotiMahal"/>
+        <activity android:name=".RestaurantsIteams.SilverSaloon"
+            android:parentActivityName=".RestaurantsIteams.SilverSaloon"/>
+        <activity android:name=".RestaurantsIteams.Indish"
+            android:parentActivityName=".RestaurantsIteams.Indish"/>
+        <activity android:name=".RestaurantsIteams.Param"
+            android:parentActivityName=".RestaurantsIteams.Param"/>
+        <activity android:name=".RestaurantsIteams.Panchavati"
+            android:parentActivityName=".RestaurantsIteams.Panchavati"/>
+        <activity android:name=".RestaurantsIteams.Kawality"
+            android:parentActivityName=".RestaurantsIteams.Kawality"/>
+        <activity android:name=".ThingstodoIteams.MelodiousMusic"
+            android:parentActivityName=".ThingstodoIteams.MelodiousMusic"/>
+        <activity android:name=".ThingstodoIteams.IndianCoffeeHouse"
+            android:parentActivityName=".ThingstodoIteams.IndianCoffeeHouse"/>
+        <activity android:name=".ThingstodoIteams.TigharaDam"
+            android:parentActivityName=".ThingstodoIteams.TigharaDam"/>
+        <activity android:name=".ThingstodoIteams.SplashfunCity"
+            android:parentActivityName=".ThingstodoIteams.SplashfunCity"/>
+        <activity android:name=".ThingstodoIteams.Gujarimahal"
+            android:parentActivityName=".ThingstodoIteams.Gujarimahal"/>
+        <activity android:name=".ThingstodoIteams.SarafaBazars"
+            android:parentActivityName=".ThingstodoIteams.SarafaBazars"/>
+        <activity android:name=".EventsIteams.GwaliorCarnival"
+            android:parentActivityName=".EventsIteams.GwaliorCarnival"/>
+        <activity android:name=".EventsIteams.TansenFestival"
+            android:parentActivityName=".EventsIteams.TansenFestival"/>
+        <activity android:name=".EventsIteams.GwaliorTrade"
+            android:parentActivityName=".EventsIteams.GwaliorTrade"/>
+        <activity android:name=".TopSightsIteams.GwaliorZoo"
+            android:parentActivityName=".TopSightsIteams.GwaliorZoo"/>
+        <activity android:name=".TopSightsIteams.TombofGhaus"
+            android:parentActivityName=".TopSightsIteams.TombofGhaus"/>
+        <activity android:name=".TopSightsIteams.ScindiaMuesum"
+            android:parentActivityName=".TopSightsIteams.ScindiaMuesum"/>
+        <activity android:name=".TopSightsIteams.TelikaMandir"
+            android:parentActivityName=".TopSightsIteams.TelikaMandir"/>
+        <activity android:name=".TopSightsIteams.TombofTansen"
+            android:parentActivityName=".TopSightsIteams.TombofTansen"/>
+        <activity android:name=".TopSightsIteams.SunTemple"
+            android:parentActivityName=".TopSightsIteams.SunTemple"/>
+        <activity android:name=".TopSightsIteams.JaiVialls"
+            android:parentActivityName=".TopSightsIteams.JaiVialls"/>
+        <activity android:name=".TopSightsIteams.GwaliorFort"
+            android:parentActivityName=".TopSightsIteams.GwaliorFort"/>
+
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

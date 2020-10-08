@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F84459</color>
+    <color name="colorPrimaryDark">#F84459</color>
+
+
+    <!-- Background color for the top sights category -->
+    <color name="category_topsight">#5A89FF</color>
+
+    <!-- Background color for the events category -->
+    <color name="category_event">#31E15B</color>
+
+    <!-- Background color for the things to do category -->
+    <color name="category_thingstodo">#E4D761</color>
+
+    <!-- Background color for the restaurant category -->
+    <color name="category_restaurant">#9C27B0</color>
+</resources>
